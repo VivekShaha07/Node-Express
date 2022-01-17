@@ -1,4 +1,4 @@
-# NodeJS Express Rest API
+# NodeJS and ExpressJS Rest API
 
 In the project directory, you can run:
 
